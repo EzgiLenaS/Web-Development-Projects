@@ -1,0 +1,41 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+
+/* Write your CSS below, don't change the rules above. */
+
+
+
+#id-selector-demo{
+  color: green;
+}
+
+li[value="2"]{
+  color: greenyellow;
+}
+li[value="4"]{
+  color: blue;
+}
+
+/*#priority-for-element-selector{
+  color: darkslateblue;
+}*/
+p{
+  color: red;
+}
+
+
+.note{
+  font-size: 20px;
+  color:hotpink
+}
+
+li{
+  color: darkorange;
+}
+*{
+  text-align: center;
+  color: aquamarine !important;
+}
