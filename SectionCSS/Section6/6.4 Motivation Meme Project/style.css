@@ -1,0 +1,24 @@
+html{
+    background: black;
+}
+/*  BU OLABILIR YA DA
+    div{
+    text-align: center;
+    margin-top: 50px;}*/ 
+div{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 50px;
+    text-align: center;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    /* bu senaryoda img width alir.*/
+}
+h1{
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+img{
+    border: 5px solid white;
+    width: 100%;
+}
